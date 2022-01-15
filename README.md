@@ -32,3 +32,6 @@ I am a civil engineer 🏗️ by education, but my love is code 💻
 [Instagram]: https://www.instagram.com/alex_dushevnyj/
 [Telegram]: https://t.me/Alex_dushevnyj
 [Whatsapp]: https://wa.me/79397016772
+
+#### [CV] 
+[CV]:https://cv.hexlet.io/users/5016
